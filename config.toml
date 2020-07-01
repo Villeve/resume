@@ -7,19 +7,13 @@ theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
-
-
-
-    
 [params]
     author = "Villeve"
-    description = "My Resume"
+    description = "Online resume of Ville Vehniä"
 
 
     primaryColor = "#54B689"
     textPrimaryColor = "#292929"
-
-
 
 
     [params.profile]
@@ -27,11 +21,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Ville Vehniä"
         tagline = "Software Developer"
         avatar = "avatar.png"
-
-
-
-
-
 
 
     [params.contact]
@@ -91,12 +80,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Good time management"
 
 
-
-
-
-
-
-
     [params.education]
         enable = true
 
@@ -108,12 +91,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         degree = "BSc in Energy and Information Technology"
         university = "University of Vaasa"
         dates = "2015 - 2018"
-
-
-
-
-
-
 
 
     #[params.awards]
@@ -129,12 +106,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         date = "2017"
 
 
-
-
-
-
-
-
     [params.languages]
         enable = false
 
@@ -144,12 +115,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.languages.list]]
         name = "English"
         level = "Professional"
-
-
-
-
-
-
 
 
     [params.interests]
@@ -205,9 +170,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Papers"
         [[params.information.list.items]]
-        details = "2020 · Implementing Azure Active Directory Integration with an Existing Cloud Service"
+        details = "2020 · Implementing Azure Active Directory Integration with an Existing Cloud Service (https://github.com/Villeve/resume/blob/master/static/assets/theses/Masters.pdf)"
         [[params.information.list.items]]
-        details = "2018 · SigFox: Overview of Technology, Services and Expendature"
+        details = "2018 · SigFox: Overview of Technology, Services and Expendature (https://github.com/Villeve/resume/blob/master/static/assets/theses/Bachelors.pdf)"
 
         [[params.information.list]]
         title = "Interests"
@@ -225,8 +190,3 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/ville-vehniä-963965158"
         title = "Ville Vehniä"
-
-
-
-
-
